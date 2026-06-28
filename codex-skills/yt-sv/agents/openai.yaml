@@ -1,0 +1,4 @@
+interface:
+  display_name: "YT SV"
+  short_description: "Run and diagnose YouTube transcript digests"
+  default_prompt: "Use $yt-sv to fetch yesterday's YouTube transcript digest and report metrics."

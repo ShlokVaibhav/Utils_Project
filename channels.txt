@@ -1,0 +1,14 @@
+# YouTube channels for daily transcript digest
+# Format: Display Name | Channel ID
+
+Patrick Boyle         | UCASM0cgfkJxQ1ICmRilfHLw
+Vox                   | UCLXo7UDZvByw2ixzpQCufnA
+DW Documentary        | UCW39zufHfsuGgpLviKh297Q
+Slice Full Doc        | UCGDXj3vSgJ8MCbzbb_C9thA
+The Information       | UCoKqUtcUtf8QPb0GWxe5e7Q
+Y Combinator          | UCcefcZRL2oaA_uBNeo5UOWg
+DW History & Culture  | UCXD5-f9urX1Foas68AL_HHQ
+YC Root Access        | UCxIJaCMEptJjxmmQgGFsnCg
+DW Planet A           | UCb72Gn5LXaLEcsOuPKGfQOg
+The Wall Street Journal | UCK7tptUDHh-RYDsdxO1-5QQ
+Standard Capital      | UClhrjxsv4Dscc-um1UequTw
